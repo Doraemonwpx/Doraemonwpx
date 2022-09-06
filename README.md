@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dora.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Data Science projects.
-- 📫 Reach me via email: wpx990602@gmail.com
+- 👀 I’m interested in Data Analysis & Data Sience.
+- 🌱 I’m currently learning Data Analysis & Data Sience.
+- 💞️ I’m looking to collaborate on Data Analytics & Data Sience projects.
+- 📫 Reach me via email: dorawpx@hotmail.com
 
 <!---
 Doraemonwpx/Doraemonwpx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
